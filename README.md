@@ -1,6 +1,6 @@
 ### Hi there, My name is Theertha👋
 #### I enjoy ensuring quality of the software and working with data 
-**Detail-oriented Data QA Analyst | ETL & Database Testing | Python & SQL Automation | AWS**
+**Detail-oriented Data QA Analyst | ETL & Database Testing | Python & SQL | Automation | AWS**
 
 With around 6 years of experience in Data QA, I specialize in validating complex data integrations, automating test cases, and ensuring high data accuracy across airlines, retail, and healthcare domains. I bring a blend of strong technical skills and a passion for clean, reliable data solutions.
 
