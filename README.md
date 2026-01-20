@@ -9,7 +9,7 @@ With around 6 years of experience in Data QA, I specialize in validating complex
 ## 🔧 Tech Stack & Tools
 
 **Languages & Scripting**  
-`Python` (Pytest, Pandas, Openpyxl), `SQL`, `HTML`, `XML`, `JSON`
+`Python (Pytest, Pandas, Openpyxl)`, `SQL`, `HTML`, `XML`, `JSON`
 
 **Cloud & Big Data**  
 `AWS (S3, Lambda, Kinesis, SQS, Redshift, CloudWatch)`, `Qubole`
